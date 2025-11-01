@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Large model files (too big for GitHub)
+*.h5
+*.keras
+*.pb
+*.pkl
+*.joblib
+
+# Dataset files (too large for GitHub)
+genres_original/
+images_original/
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.au
+
+# Data files
+*.csv
+*.json
+
+# Images (keep only visualization images)
+*.png
+!confusion_matrix_final.png
+!accuracy_visualization.png
+!loss_visualization.png
+!training_curves.png
+
+# Screenshots folder can be included but might be large
+# SS/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Training artifacts
+catboost_info/
+training_history.json
+
+# Temporary files
+*.tmp
+*.log
+
