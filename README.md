@@ -23,20 +23,28 @@ A sophisticated web application that automatically classifies music genres using
 
 ## 🖼️ Screenshots
 
-### Main Interface
-![Main Interface](https://res.cloudinary.com/dx7ylrage/image/upload/v1762022035/Screenshot_2025-11-01_235002_jpwfw6.png)
+<p align="center">
+  <img src="https://res.cloudinary.com/dx7ylrage/image/upload/v1762022035/Screenshot_2025-11-01_235002_jpwfw6.png" width="45%">
+  <img src="https://res.cloudinary.com/dx7ylrage/image/upload/v1762022035/Screenshot_2025-11-01_235042_pfjtan.png" width="45%">
+</p>
+<p align="center">
+  <b>Main Interface</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>File Upload</b>
+</p>
 
-### File Upload
-![File Upload](https://res.cloudinary.com/dx7ylrage/image/upload/v1762022035/Screenshot_2025-11-01_235042_pfjtan.png)
+<p align="center">
+  <img src="https://res.cloudinary.com/dx7ylrage/image/upload/v1762022035/Screenshot_2025-11-01_235056_numjux.png" width="45%">
+  <img src="https://res.cloudinary.com/dx7ylrage/image/upload/v1762022035/Screenshot_2025-11-01_235110_xg9xo3.png" width="45%">
+</p>
+<p align="center">
+  <b>Prediction Results</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Visualizations</b>
+</p>
 
-### Prediction Results
-![Prediction Results](https://res.cloudinary.com/dx7ylrage/image/upload/v1762022035/Screenshot_2025-11-01_235056_numjux.png)
-
-### Visualizations
-![Visualizations](https://res.cloudinary.com/dx7ylrage/image/upload/v1762022035/Screenshot_2025-11-01_235110_xg9xo3.png)
-
-### Detailed Analysis
-![Detailed Analysis](https://res.cloudinary.com/dx7ylrage/image/upload/v1762022035/Screenshot_2025-11-01_235328_o4fohb.png)
+<p align="center">
+  <img src="https://res.cloudinary.com/dx7ylrage/image/upload/v1762022035/Screenshot_2025-11-01_235328_o4fohb.png" width="45%">
+</p>
+<p align="center">
+  <b>Detailed Analysis</b>
+</p>
 
 ---
 
